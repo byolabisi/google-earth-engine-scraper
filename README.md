@@ -1,9 +1,9 @@
 # Google places scraper
 
 ## Introduction
-This project was created to create a tool
-that will allow to grab information about surrounding places of a certain point and store it in a structure from which we can easily take conclusion.
-It can be used for data science, machine learning and .
+This project was created as a tool
+that will allow you to grab information about surrounding places of a certain point and store it in a structure from which we can easily take conclusion.
+It can be used for data science, machine learning and, predictive analysis and et.c
 
 Using this tool it is possible to enter a radius variable in which places should be checked and get information such as addresses, population by , security, ratings of restaurants and other interesting information.
 
